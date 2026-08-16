@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://emillion-lab.github.io/KRAGOVRAT/schema/kragovrat.schema.json",
+  "title": "KRAGOVRAT",
+  "$defs": {
+    "segment": {
+      "type": "object",
+      "required": ["id", "source", "speaker", "text"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "yt:{videoId}@{startSec} или bk:{book}#{page}",
+          "pattern": "^(yt:[A-Za-z0-9_-]+@\\d+|bk:[a-z0-9-]+#\\d+)$"
+        },
+        "source": {
+          "type": "object",
+          "required": ["type", "title", "url"],
+          "properties": {
+            "type": { "enum": ["lecture", "interview", "book", "article", "post"] },
+            "title": { "type": "string" },
+            "url": { "type": "string", "format": "uri" },
+            "date": { "type": ["string", "null"], "format": "date" },
+            "publisher": { "type": ["string", "null"] }
+          }
+        },
+        "t_start": { "type": ["number", "null"], "description": "секунди" },
+        "t_end": { "type": ["number", "null"] },
+        "page": { "type": ["integer", "null"] },
+        "speaker": {
+          "enum": ["sirakov", "host", "audience", "unknown"],
+          "description": "ЗАДЪЛЖИТЕЛНО. Само sirakov влиза в retrieval-а."
+        },
+        "text": { "type": "string", "minLength": 40 },
+        "terms": { "type": "array", "items": { "type": "string" } },
+        "claim_type": { "enum": ["definition", "thesis", "example", "answer", "aside"] },
+        "asr": {
+          "type": ["object", "null"],
+          "properties": {
+            "model": { "type": "string" },
+            "conf": { "type": "number", "minimum": 0, "maximum": 1 },
+            "low_conf": { "type": "boolean" },
+            "human_checked": { "type": "boolean", "default": false }
+          }
+        },
+        "has_diagram": { "type": "boolean", "default": false },
+        "frame": { "type": ["string", "null"], "description": "път до кадър от таймкода" },
+        "dup_of": { "type": ["string", "null"], "description": "id на канонична версия" }
+      }
+    },
+
+    "term": {
+      "type": "object",
+      "required": ["slug", "label", "segments"],
+      "properties": {
+        "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "label": { "type": "string" },
+        "aliases": { "type": "array", "items": { "type": "string" } },
+        "canonical": {
+          "type": ["string", "null"],
+          "description": "id на сегмента с най-пълната дефиниция"
+        },
+        "segments": {
+          "type": "array",
+          "description": "всички сегменти по темата, подредени по дата",
+          "items": { "type": "string" }
+        },
+        "related": { "type": "array", "items": { "type": "string" } },
+        "first_seen": { "type": ["string", "null"], "format": "date" },
+        "last_seen": { "type": ["string", "null"], "format": "date" },
+        "curated": {
+          "type": "boolean",
+          "default": false,
+          "description": "минал ли е през човешки преглед"
+        },
+        "note": {
+          "type": ["string", "null"],
+          "description": "редакторска бележка — ЯСНО отделена от неговите думи"
+        }
+      }
+    }
+  }
+}
