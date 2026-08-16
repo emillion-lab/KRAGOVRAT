@@ -1,0 +1,112 @@
+name: Ingest
+
+# GitHub Actions върши работата — не твоят телефон, не твоята машина.
+#   mode=index    -> списък с всички видеа на канала -> ingest/sources.json (commit)
+#   mode=captions -> авто-субтитри -> сегменти -> artifact (НЕ се комитва: авторски права)
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: index | captions
+        required: true
+        default: index
+        type: choice
+        options: [index, captions]
+      channel:
+        description: URL на канала (само за index)
+        required: false
+        default: https://www.youtube.com/@istinskazemya
+      limit:
+        description: максимум видеа (0 = всички)
+        required: false
+        default: "0"
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -U yt-dlp
+
+      - name: Индекс на канала
+        if: inputs.mode == 'index'
+        env:
+          CHANNEL: ${{ inputs.channel }}
+          LIMIT: ${{ inputs.limit }}
+        run: |
+          set -o pipefail
+          ARGS="--flat-playlist -J --ignore-errors"
+          [ "$LIMIT" != "0" ] && ARGS="$ARGS --playlist-end $LIMIT"
+          yt-dlp $ARGS "$CHANNEL/videos" > /tmp/channel.json
+          python - <<'PY'
+          import json, pathlib
+          data = json.load(open("/tmp/channel.json", encoding="utf-8"))
+          rows = []
+          for e in data.get("entries") or []:
+              if not e or not e.get("id"):
+                  continue
+              ts = e.get("timestamp") or e.get("release_timestamp")
+              date = None
+              if ts:
+                  import datetime
+                  date = datetime.datetime.utcfromtimestamp(ts).date().isoformat()
+              rows.append({
+                  "vid": e["id"],
+                  "url": f"https://www.youtube.com/watch?v={e['id']}",
+                  "title": (e.get("title") or "").strip(),
+                  "date": date,
+                  "duration": e.get("duration"),
+                  "publisher": "Истинска Земя",
+                  "type": "lecture",
+              })
+          rows.sort(key=lambda r: (r["date"] or "", r["title"]))
+          pathlib.Path("ingest/sources.json").write_text(
+              json.dumps(rows, ensure_ascii=False, indent=1), encoding="utf-8")
+          mins = sum(r["duration"] or 0 for r in rows) / 60
+          print(f"{len(rows)} видеа, {mins/60:.1f} часа общо")
+          PY
+
+      - name: Commit на индекса
+        if: inputs.mode == 'index'
+        run: |
+          git config user.name  "kragovrat-bot"
+          git config user.email "actions@github.com"
+          git add ingest/sources.json
+          git diff --staged --quiet || git commit -m "Индекс на канала: $(python -c "import json;print(len(json.load(open('ingest/sources.json'))))") видеа"
+          git push
+
+      - name: Сваляне на авто-субтитри
+        if: inputs.mode == 'captions'
+        run: |
+          mkdir -p work/subs
+          python - <<'PY' > /tmp/urls.txt
+          import json
+          for s in json.load(open("ingest/sources.json", encoding="utf-8")):
+              if not s["vid"].startswith("ЗАМЕНИ"):
+                  print(s["url"])
+          PY
+          # --skip-download: сваля само субтитрите, без аудио. Бързо и леко.
+          yt-dlp --skip-download --write-auto-subs --write-subs \
+                 --sub-langs "bg.*" --sub-format vtt \
+                 --ignore-errors --sleep-requests 2 \
+                 -o "work/subs/%(id)s.%(ext)s" -a /tmp/urls.txt || true
+          ls -1 work/subs | head -50
+          echo "СВАЛЕНИ: $(ls -1 work/subs/*.vtt 2>/dev/null | wc -l)"
+
+      - name: Сегментиране
+        if: inputs.mode == 'captions'
+        run: python ingest/from_captions.py
+
+      - uses: actions/upload-artifact@v4
+        if: inputs.mode == 'captions'
+        with:
+          name: segments
+          retention-days: 30
+          path: |
+            data/segments/
+            work/subs/
