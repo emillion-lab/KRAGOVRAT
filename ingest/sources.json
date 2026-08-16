@@ -1,0 +1,11 @@
+[
+  {
+    "vid": "ЗАМЕНИ_С_YOUTUBE_ID",
+    "url": "https://www.youtube.com/watch?v=ЗАМЕНИ_С_YOUTUBE_ID",
+    "title": "Заглавие на лекцията",
+    "date": "2019-03-12",
+    "publisher": "Portal12",
+    "type": "lecture",
+    "note": "type: lecture (той говори сам) | interview (има водещ → диаризацията е задължителна)"
+  }
+]
