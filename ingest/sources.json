@@ -1,11 +1,2216 @@
 [
-  {
-    "vid": "ЗАМЕНИ_С_YOUTUBE_ID",
-    "url": "https://www.youtube.com/watch?v=ЗАМЕНИ_С_YOUTUBE_ID",
-    "title": "Заглавие на лекцията",
-    "date": "2019-03-12",
-    "publisher": "Portal12",
-    "type": "lecture",
-    "note": "type: lecture (той говори сам) | interview (има водещ → диаризацията е задължителна)"
-  }
+ {
+  "vid": "C7VFtSsQ3xQ",
+  "url": "https://www.youtube.com/watch?v=C7VFtSsQ3xQ",
+  "title": "#facts #history Тайната на Вселената в Словото на Дланта ни - Част I - Карандила 13.09.2024 г.",
+  "date": null,
+  "duration": 9595,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "JA8O-qpXewU",
+  "url": "https://www.youtube.com/watch?v=JA8O-qpXewU",
+  "title": "#shorts Древните учители на българите 14",
+  "date": null,
+  "duration": 61,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "fsrnSJJ42LI",
+  "url": "https://www.youtube.com/watch?v=fsrnSJJ42LI",
+  "title": "7-те Стъпки Към Себепознанието и Побеждаването на Греха - Модул 1 София - Част 1",
+  "date": null,
+  "duration": 13615,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "RJzqy9LX7P4",
+  "url": "https://www.youtube.com/watch?v=RJzqy9LX7P4",
+  "title": "7-те Стъпки Към Себепознанието и Побеждаването на Греха - Модул 1 София - Част 2",
+  "date": null,
+  "duration": 9804,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Si0sDTavOTE",
+  "url": "https://www.youtube.com/watch?v=Si0sDTavOTE",
+  "title": "7-те Стъпки Към Себепознанието и Побеждаването на Греха - Модул 1 София - Част 3",
+  "date": null,
+  "duration": 12234,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "_CqHJL0ZbTY",
+  "url": "https://www.youtube.com/watch?v=_CqHJL0ZbTY",
+  "title": "7-те Стъпки Към Себепознанието и Побеждаването на Греха - Модул 1 София - Част 4",
+  "date": null,
+  "duration": 8791,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "nE1JjjPMtPU",
+  "url": "https://www.youtube.com/watch?v=nE1JjjPMtPU",
+  "title": "E01 - Rock Sanctuaries - Lepenica Cave",
+  "date": null,
+  "duration": 1522,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "vJiAADEUWv4",
+  "url": "https://www.youtube.com/watch?v=vJiAADEUWv4",
+  "title": "Episode 7 - The Word in Music",
+  "date": null,
+  "duration": 2501,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "_Nk4wGm3FSs",
+  "url": "https://www.youtube.com/watch?v=_Nk4wGm3FSs",
+  "title": "Meeting of History and Art",
+  "date": null,
+  "duration": 2435,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "xolGssF129c",
+  "url": "https://www.youtube.com/watch?v=xolGssF129c",
+  "title": "The Secret Societies of France - Part I",
+  "date": null,
+  "duration": 1357,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "cukJkdC98OE",
+  "url": "https://www.youtube.com/watch?v=cukJkdC98OE",
+  "title": "Арх. Резерват АБРИТУС и СКАЛНОТО СВЕТИЛИЩЕ до с. Каменово - област РАЗГРАД",
+  "date": null,
+  "duration": 1621,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "BwGL7UrC__w",
+  "url": "https://www.youtube.com/watch?v=BwGL7UrC__w",
+  "title": "БОЖЕСТВЕНАТА Сянка на ВРЕМЕТО - Карандила - Епизод 13",
+  "date": null,
+  "duration": 2628,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ZwUG0_GCKVI",
+  "url": "https://www.youtube.com/watch?v=ZwUG0_GCKVI",
+  "title": "БОНУС ЕПИЗОД от ОБУЧЕНИЕ Първи Модул - Примерен от Съдържание за Платени Абонати",
+  "date": null,
+  "duration": 2044,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "cQjlIiF2E_Q",
+  "url": "https://www.youtube.com/watch?v=cQjlIiF2E_Q",
+  "title": "БРИТАНСКИЯТ МУЗЕЙ ОТВЪТРЕ - ПОГЛЕД КЪМ ДРЕВНИТЕ ЦИВИЛИЗАЦИИ",
+  "date": null,
+  "duration": 1640,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "HjPgvwKW2nA",
+  "url": "https://www.youtube.com/watch?v=HjPgvwKW2nA",
+  "title": "БЪЛГАРСКИ ЛИ СА СВЕТОВНИТЕ СИМВОЛИ?",
+  "date": null,
+  "duration": 1734,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "hfeuIhoQjrY",
+  "url": "https://www.youtube.com/watch?v=hfeuIhoQjrY",
+  "title": "Библиотекари I - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 536,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "CAi3VZX84J0",
+  "url": "https://www.youtube.com/watch?v=CAi3VZX84J0",
+  "title": "Библиотекари II - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 555,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "jvKpnBOA0xM",
+  "url": "https://www.youtube.com/watch?v=jvKpnBOA0xM",
+  "title": "Библиотекари III - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 584,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "nhGTm3EFfsE",
+  "url": "https://www.youtube.com/watch?v=nhGTm3EFfsE",
+  "title": "Библиотекари IV - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 608,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Nigg0bhdgW0",
+  "url": "https://www.youtube.com/watch?v=Nigg0bhdgW0",
+  "title": "Библиотекари IX - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 688,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "7LpiGwoo8tQ",
+  "url": "https://www.youtube.com/watch?v=7LpiGwoo8tQ",
+  "title": "Библиотекари V - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 585,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "rwSiaZUvITc",
+  "url": "https://www.youtube.com/watch?v=rwSiaZUvITc",
+  "title": "Библиотекари VI - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 644,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "pIFm2PgYnZQ",
+  "url": "https://www.youtube.com/watch?v=pIFm2PgYnZQ",
+  "title": "Библиотекари VII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 593,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "MXqi7_nqTcA",
+  "url": "https://www.youtube.com/watch?v=MXqi7_nqTcA",
+  "title": "Библиотекари VIII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 698,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "mX7K08qE034",
+  "url": "https://www.youtube.com/watch?v=mX7K08qE034",
+  "title": "Библиотекари X - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1065,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "YhZ-WGzBwzM",
+  "url": "https://www.youtube.com/watch?v=YhZ-WGzBwzM",
+  "title": "Библиотекари XI - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1091,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "_kcmteEirwA",
+  "url": "https://www.youtube.com/watch?v=_kcmteEirwA",
+  "title": "Библиотекари XII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 978,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Qm3vgjM4Fz0",
+  "url": "https://www.youtube.com/watch?v=Qm3vgjM4Fz0",
+  "title": "Библиотекари XIII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 945,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "KjBqF2BCHQw",
+  "url": "https://www.youtube.com/watch?v=KjBqF2BCHQw",
+  "title": "Библиотекари XIV - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 909,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "hrbBNSwy15w",
+  "url": "https://www.youtube.com/watch?v=hrbBNSwy15w",
+  "title": "Битката между Ангели и Демони",
+  "date": null,
+  "duration": 1391,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "4DevlB_apGk",
+  "url": "https://www.youtube.com/watch?v=4DevlB_apGk",
+  "title": "Благословено Изгнание в \"Под Игото\" на Иван Вазов",
+  "date": null,
+  "duration": 2509,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Quy1nRA-L3k",
+  "url": "https://www.youtube.com/watch?v=Quy1nRA-L3k",
+  "title": "Близостта на Мистиката по Света",
+  "date": null,
+  "duration": 2427,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "sxYnC3Qfazw",
+  "url": "https://www.youtube.com/watch?v=sxYnC3Qfazw",
+  "title": "Българска Сбирка",
+  "date": null,
+  "duration": 1786,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "hyRtu9YZPMY",
+  "url": "https://www.youtube.com/watch?v=hyRtu9YZPMY",
+  "title": "Българската Митология в Кехлибара",
+  "date": null,
+  "duration": 1017,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zYopNKgk-cA",
+  "url": "https://www.youtube.com/watch?v=zYopNKgk-cA",
+  "title": "В Пламъка на Огъня",
+  "date": null,
+  "duration": 2707,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "VuA9yNsT3AY",
+  "url": "https://www.youtube.com/watch?v=VuA9yNsT3AY",
+  "title": "В Потока на Водата",
+  "date": null,
+  "duration": 1877,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "szVhvkcoqRo",
+  "url": "https://www.youtube.com/watch?v=szVhvkcoqRo",
+  "title": "ВИЖДАМЕ ЕДВА 1% ОТ ОКОЛНАТА СРЕДА - ЛЕКЦИЯ ШУМЕН",
+  "date": null,
+  "duration": 1496,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "atqDR0BnHdA",
+  "url": "https://www.youtube.com/watch?v=atqDR0BnHdA",
+  "title": "ВСИЧКИ ЕЗИЦИ ПРОИЗЛИЗАТ ОТ БЪЛГАРСКАТА АЗБУКА",
+  "date": null,
+  "duration": 1637,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "PqUnXNiZuLs",
+  "url": "https://www.youtube.com/watch?v=PqUnXNiZuLs",
+  "title": "ВСЪЩНОСТ КАКВО Е ЛЮБОВ ?",
+  "date": null,
+  "duration": 1177,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "VMtlH0Q_Mbk",
+  "url": "https://www.youtube.com/watch?v=VMtlH0Q_Mbk",
+  "title": "ВЯРА ИЛИ РЕЛИГИЯ Е ХРИСТИЯНСТВОТО?",
+  "date": null,
+  "duration": 1489,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "qtxdGPZN_dE",
+  "url": "https://www.youtube.com/watch?v=qtxdGPZN_dE",
+  "title": "Варненски Халколитен Некропол",
+  "date": null,
+  "duration": 2526,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "IS7nTbD2dhg",
+  "url": "https://www.youtube.com/watch?v=IS7nTbD2dhg",
+  "title": "Взимане на Решения според Eлемента",
+  "date": null,
+  "duration": 2863,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "bMlIBYNl1Ao",
+  "url": "https://www.youtube.com/watch?v=bMlIBYNl1Ao",
+  "title": "Вибрациите на Словото",
+  "date": null,
+  "duration": 1414,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "GwgG1XKtYZ8",
+  "url": "https://www.youtube.com/watch?v=GwgG1XKtYZ8",
+  "title": "Видение за Българските Царе",
+  "date": null,
+  "duration": 2040,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "FOP_JV57jZU",
+  "url": "https://www.youtube.com/watch?v=FOP_JV57jZU",
+  "title": "Времето на Йоаните",
+  "date": null,
+  "duration": 1731,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "qoQvibrQdZg",
+  "url": "https://www.youtube.com/watch?v=qoQvibrQdZg",
+  "title": "Всемирния Култ на Боговете - Соланита",
+  "date": null,
+  "duration": 2169,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "DZp11b4g4nA",
+  "url": "https://www.youtube.com/watch?v=DZp11b4g4nA",
+  "title": "Във Вихъра на Въздуха",
+  "date": null,
+  "duration": 2629,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "YzfFyz0lngw",
+  "url": "https://www.youtube.com/watch?v=YzfFyz0lngw",
+  "title": "Въображението Изгрява в \"Адъ\" от Данте",
+  "date": null,
+  "duration": 1288,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "2npk-W-pJNE",
+  "url": "https://www.youtube.com/watch?v=2npk-W-pJNE",
+  "title": "Въплъщенията на Човека според Йоан Кръстител",
+  "date": null,
+  "duration": 2184,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "8jeLvkSYkr4",
+  "url": "https://www.youtube.com/watch?v=8jeLvkSYkr4",
+  "title": "Градина в Рая",
+  "date": null,
+  "duration": 2559,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "TOaBUfJFK4g",
+  "url": "https://www.youtube.com/watch?v=TOaBUfJFK4g",
+  "title": "ДА ИЛИ НЕ - НА ПРАКТИКА",
+  "date": null,
+  "duration": 1691,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "pFNHLhvE-_E",
+  "url": "https://www.youtube.com/watch?v=pFNHLhvE-_E",
+  "title": "Да Владееш Варианта",
+  "date": null,
+  "duration": 2886,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "E7YfXyXk3pw",
+  "url": "https://www.youtube.com/watch?v=E7YfXyXk3pw",
+  "title": "Да Научиш Звездите чрез Приказка",
+  "date": null,
+  "duration": 1760,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "idYSovm9amg",
+  "url": "https://www.youtube.com/watch?v=idYSovm9amg",
+  "title": "Да Овладееш Времето Чрез Словото - Модул 2 Бургас - Част 1",
+  "date": null,
+  "duration": 8068,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "luCZpLn1K_I",
+  "url": "https://www.youtube.com/watch?v=luCZpLn1K_I",
+  "title": "Да Овладееш Времето Чрез Словото - Модул 2 Бургас - Част 2",
+  "date": null,
+  "duration": 6986,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "KiZSSuO2CSY",
+  "url": "https://www.youtube.com/watch?v=KiZSSuO2CSY",
+  "title": "Да Овладееш Времето Чрез Словото - Модул 2 Бургас - Част 3",
+  "date": null,
+  "duration": 9042,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "h6lYuWb01rM",
+  "url": "https://www.youtube.com/watch?v=h6lYuWb01rM",
+  "title": "Да Овладееш Времето Чрез Словото - Модул 2 Бургас - Част 4",
+  "date": null,
+  "duration": 9228,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "H27oBOJKtUQ",
+  "url": "https://www.youtube.com/watch?v=H27oBOJKtUQ",
+  "title": "Да четеш \"АДЪ\" на ДАНТЕ",
+  "date": null,
+  "duration": 1629,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "hPsbG5HyiGA",
+  "url": "https://www.youtube.com/watch?v=hPsbG5HyiGA",
+  "title": "Деветата порта 1999 епизод 04",
+  "date": null,
+  "duration": 1805,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "8hyLPn--aIM",
+  "url": "https://www.youtube.com/watch?v=8hyLPn--aIM",
+  "title": "Дланта ни е цяла Вселена Епизод 12",
+  "date": null,
+  "duration": 1695,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "3X_ey0wdCIU",
+  "url": "https://www.youtube.com/watch?v=3X_ey0wdCIU",
+  "title": "Древната Представа за Троичното Лекция от Карандила",
+  "date": null,
+  "duration": 2331,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "qFcVXqCpRQo",
+  "url": "https://www.youtube.com/watch?v=qFcVXqCpRQo",
+  "title": "Е00 - Тайната на Словото - Българската Азбука",
+  "date": null,
+  "duration": 1538,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "kQOUQcqIAG8",
+  "url": "https://www.youtube.com/watch?v=kQOUQcqIAG8",
+  "title": "Е02 - Силата на Словото - Българската Азбука  - Част II",
+  "date": null,
+  "duration": 1422,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zLnq5RtR0b8",
+  "url": "https://www.youtube.com/watch?v=zLnq5RtR0b8",
+  "title": "Е03 - Етрополският манастир - Хилядолетната вяра на Българите",
+  "date": null,
+  "duration": 1065,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "C_mSxk8OozA",
+  "url": "https://www.youtube.com/watch?v=C_mSxk8OozA",
+  "title": "Е06 - По стъпките на Седемте тепета  - Част I",
+  "date": null,
+  "duration": 1028,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ahLd9mo1YDI",
+  "url": "https://www.youtube.com/watch?v=ahLd9mo1YDI",
+  "title": "Е06 - По стъпките на Седемте тепета  - Част II",
+  "date": null,
+  "duration": 1027,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "xfWRT9qkA_g",
+  "url": "https://www.youtube.com/watch?v=xfWRT9qkA_g",
+  "title": "Е07 - Тайната на Словото в изкуството - Част I",
+  "date": null,
+  "duration": 1060,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "SmQRxw9sBNI",
+  "url": "https://www.youtube.com/watch?v=SmQRxw9sBNI",
+  "title": "Е08 - Най-големият исторически парк на Балканите",
+  "date": null,
+  "duration": 967,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "E_bEljXpPuY",
+  "url": "https://www.youtube.com/watch?v=E_bEljXpPuY",
+  "title": "Епизод 4 - Светилищата на древността по Искърското дефиле",
+  "date": null,
+  "duration": 920,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "SN9dR_CzPgg",
+  "url": "https://www.youtube.com/watch?v=SN9dR_CzPgg",
+  "title": "Женската Същност и Отговорност",
+  "date": null,
+  "duration": 1541,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "HMs4W3vQp3E",
+  "url": "https://www.youtube.com/watch?v=HMs4W3vQp3E",
+  "title": "Жива Вода от Ранъ Босилекъ",
+  "date": null,
+  "duration": 2029,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ImahYgXJY1o",
+  "url": "https://www.youtube.com/watch?v=ImahYgXJY1o",
+  "title": "Животът е Матрица от Сънища",
+  "date": null,
+  "duration": 2473,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "LX6Z6iRq_No",
+  "url": "https://www.youtube.com/watch?v=LX6Z6iRq_No",
+  "title": "ЗАПИС от Изкуството в Азбуката на Светлината - 6 юни 2026г.",
+  "date": null,
+  "duration": 11574,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zNE1dDPy11k",
+  "url": "https://www.youtube.com/watch?v=zNE1dDPy11k",
+  "title": "ЗЛАТНОТО БЪЛГАРСКО ДНК НЕ СЕ КРАДЕ - Лекция ШУМЕН - ЧАСТ 2",
+  "date": null,
+  "duration": 1509,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "dr-kkTrseXE",
+  "url": "https://www.youtube.com/watch?v=dr-kkTrseXE",
+  "title": "Златни Страници изъ Нашето Минало",
+  "date": null,
+  "duration": 2107,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "T5WYv9ry2XU",
+  "url": "https://www.youtube.com/watch?v=T5WYv9ry2XU",
+  "title": "Знанието за звездите в Ръкописа на Войнич Епизод 06",
+  "date": null,
+  "duration": 2305,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Q40y-cUQf7s",
+  "url": "https://www.youtube.com/watch?v=Q40y-cUQf7s",
+  "title": "Зов за Завръщане",
+  "date": null,
+  "duration": 1132,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zIdzwZZz8jc",
+  "url": "https://www.youtube.com/watch?v=zIdzwZZz8jc",
+  "title": "ИНТЕРВЮ СЪС СТЕФАН ВАСИЛЕВ - Лондон",
+  "date": null,
+  "duration": 1875,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "E5swWZOHy7E",
+  "url": "https://www.youtube.com/watch?v=E5swWZOHy7E",
+  "title": "Игра на Спомени",
+  "date": null,
+  "duration": 2493,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "B7IA2PU4qd4",
+  "url": "https://www.youtube.com/watch?v=B7IA2PU4qd4",
+  "title": "Изкуството като Реална Фантазия",
+  "date": null,
+  "duration": 2863,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ipIgsfiJBi8",
+  "url": "https://www.youtube.com/watch?v=ipIgsfiJBi8",
+  "title": "Изкуството на Войната",
+  "date": null,
+  "duration": 3463,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "mDSId99WvsE",
+  "url": "https://www.youtube.com/watch?v=mDSId99WvsE",
+  "title": "Изследователска мисия в Сармизеджетуза",
+  "date": null,
+  "duration": 1587,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "8a2EdJjEWU4",
+  "url": "https://www.youtube.com/watch?v=8a2EdJjEWU4",
+  "title": "Имаме ли Свободна Воля?",
+  "date": null,
+  "duration": 2312,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "BP_Mt6-p9Dk",
+  "url": "https://www.youtube.com/watch?v=BP_Mt6-p9Dk",
+  "title": "Истината под краката ни с Милан Миланов",
+  "date": null,
+  "duration": 1727,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "QkUgSptXtrQ",
+  "url": "https://www.youtube.com/watch?v=QkUgSptXtrQ",
+  "title": "Истинска Земя - Трейлър",
+  "date": null,
+  "duration": 138,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "4K4jBqJxJhk",
+  "url": "https://www.youtube.com/watch?v=4K4jBqJxJhk",
+  "title": "Истинска Земя през Юни 2024",
+  "date": null,
+  "duration": 87,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "UsoJj_nN170",
+  "url": "https://www.youtube.com/watch?v=UsoJj_nN170",
+  "title": "История на Боговете",
+  "date": null,
+  "duration": 2445,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "1xuiy5yh0aY",
+  "url": "https://www.youtube.com/watch?v=1xuiy5yh0aY",
+  "title": "Историята на Клод, Петър и Козма Част IV (Финал) Епизод 11",
+  "date": null,
+  "duration": 1881,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zFH3QmyWNSU",
+  "url": "https://www.youtube.com/watch?v=zFH3QmyWNSU",
+  "title": "КАК ДА ОПТИМИЗИРАМЕ ЖИВОТА СИ",
+  "date": null,
+  "duration": 1350,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "L2M5Z4JdlBs",
+  "url": "https://www.youtube.com/watch?v=L2M5Z4JdlBs",
+  "title": "КАК ДА РАЗШИФРОВАМЕ КОДЪ НА ПАРИТЕ СИ?",
+  "date": null,
+  "duration": 1597,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "_aeJqdg2PsI",
+  "url": "https://www.youtube.com/watch?v=_aeJqdg2PsI",
+  "title": "КАК ДА СИ НАПРАВИМ ШЕВИЦА?",
+  "date": null,
+  "duration": 1220,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zp5xJ57leNc",
+  "url": "https://www.youtube.com/watch?v=zp5xJ57leNc",
+  "title": "КАКВО КАЗВА ДЛАНТА НИ?",
+  "date": null,
+  "duration": 895,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "P45Za7TwXUo",
+  "url": "https://www.youtube.com/watch?v=P45Za7TwXUo",
+  "title": "КАКВО СА БОЛЕСТИТЕ ВСЪЩНОСТ?",
+  "date": null,
+  "duration": 2211,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "-bKeppvHs7g",
+  "url": "https://www.youtube.com/watch?v=-bKeppvHs7g",
+  "title": "Как да развием въображението си с Георги Сираков",
+  "date": null,
+  "duration": 1357,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "sor2WOq3wE0",
+  "url": "https://www.youtube.com/watch?v=sor2WOq3wE0",
+  "title": "Каква е Истинската Форма на Земята?",
+  "date": null,
+  "duration": 3563,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "MrewlLGf8LQ",
+  "url": "https://www.youtube.com/watch?v=MrewlLGf8LQ",
+  "title": "Каква е Нашата Мисия?",
+  "date": null,
+  "duration": 2561,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "OJ9XXQe82oM",
+  "url": "https://www.youtube.com/watch?v=OJ9XXQe82oM",
+  "title": "Каква роля играят Ангелите и Демоните в живота на човек?",
+  "date": null,
+  "duration": 1112,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "i5nEETEErpY",
+  "url": "https://www.youtube.com/watch?v=i5nEETEErpY",
+  "title": "Калъп за Сънища",
+  "date": null,
+  "duration": 2113,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "QUglNZst-fA",
+  "url": "https://www.youtube.com/watch?v=QUglNZst-fA",
+  "title": "Квантов Скок",
+  "date": null,
+  "duration": 2822,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Y0brccs0FHc",
+  "url": "https://www.youtube.com/watch?v=Y0brccs0FHc",
+  "title": "Кой е Мост-Ичиргу Боил Георги-Сурсувул Колоброят? Епизод 05",
+  "date": null,
+  "duration": 2190,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "90SgAagJfls",
+  "url": "https://www.youtube.com/watch?v=90SgAagJfls",
+  "title": "Колоброите на Сионската Школа",
+  "date": null,
+  "duration": 3735,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "vdGRC4aZ7zI",
+  "url": "https://www.youtube.com/watch?v=vdGRC4aZ7zI",
+  "title": "Космичната връзка в Планетарната система на Калъпа",
+  "date": null,
+  "duration": 3877,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "WNlTSq8sZU8",
+  "url": "https://www.youtube.com/watch?v=WNlTSq8sZU8",
+  "title": "ЛЪЖАТ ЛИ НИ КАКВО Е ВРЕМЕТО? - Потока на Времето - Георги Сираков",
+  "date": null,
+  "duration": 1787,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "slmcFQaiYzg",
+  "url": "https://www.youtube.com/watch?v=slmcFQaiYzg",
+  "title": "Лекция  - Тайната на Словото - 04.06.2022г  -  Пловдив  - Част I",
+  "date": null,
+  "duration": 1309,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zaXnXbJaBsY",
+  "url": "https://www.youtube.com/watch?v=zaXnXbJaBsY",
+  "title": "Лекция  - Тайната на Словото - 04.06.2022г - Пловдив - Част II",
+  "date": null,
+  "duration": 1142,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "rO7dMLOHUjM",
+  "url": "https://www.youtube.com/watch?v=rO7dMLOHUjM",
+  "title": "Лекция - Тайната на Словото - 15.05.2022г. - Част I",
+  "date": null,
+  "duration": 1410,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "0xLH5nnKucA",
+  "url": "https://www.youtube.com/watch?v=0xLH5nnKucA",
+  "title": "Лекция - Тайната на Словото - 15.05.2022г. - Част II",
+  "date": null,
+  "duration": 1071,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "H6fGU4UcEaU",
+  "url": "https://www.youtube.com/watch?v=H6fGU4UcEaU",
+  "title": "Лекция - Тайната на Словото - 22.06.2022 г. - София - Читалище - Природа и наука - 1938 г - Част III",
+  "date": null,
+  "duration": 1180,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "2WHRDt9k-w4",
+  "url": "https://www.youtube.com/watch?v=2WHRDt9k-w4",
+  "title": "Лекция - Тайната на Словото - 22.06.2022 г. - София - Читалище - Природа и наука - 1938 г.- Част II",
+  "date": null,
+  "duration": 1303,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "TR05_jiyHDY",
+  "url": "https://www.youtube.com/watch?v=TR05_jiyHDY",
+  "title": "Лекция - Тайната на Словото - 22.06.2022г. - София - Читалище   Природа и наука 1938г. - Част I",
+  "date": null,
+  "duration": 1331,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Y8j3pwTS-R8",
+  "url": "https://www.youtube.com/watch?v=Y8j3pwTS-R8",
+  "title": "Лекция - Тайната на Словото - Хасково - Част II - 02.11.2024 г.",
+  "date": null,
+  "duration": 3332,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "BrLYF7svJds",
+  "url": "https://www.youtube.com/watch?v=BrLYF7svJds",
+  "title": "Лекция - Троичната перспектива на Словото - Хасково - 02.11.2024 г. - Част I",
+  "date": null,
+  "duration": 2876,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "mqueA83UPzA",
+  "url": "https://www.youtube.com/watch?v=mqueA83UPzA",
+  "title": "Лъжата в Кръговрата на Времето",
+  "date": null,
+  "duration": 1754,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "X4eTgzlLpvA",
+  "url": "https://www.youtube.com/watch?v=X4eTgzlLpvA",
+  "title": "Люси По Пътя на 100те",
+  "date": null,
+  "duration": 3333,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ziLCOm-FgA4",
+  "url": "https://www.youtube.com/watch?v=ziLCOm-FgA4",
+  "title": "МАГИЧЕСКИЯТ КВАДРАТ НА ЦАР ЙОАН АЛЕКСАНДЪР",
+  "date": null,
+  "duration": 2534,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ezZnLorN5Rk",
+  "url": "https://www.youtube.com/watch?v=ezZnLorN5Rk",
+  "title": "МАТРИЦАТА - КАЛЪПЪТ НА СЪЗНАНИЕТО",
+  "date": null,
+  "duration": 1447,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "rxX3ZIU9bhU",
+  "url": "https://www.youtube.com/watch?v=rxX3ZIU9bhU",
+  "title": "МИСТИЧНОСТТА НА ОБЩАТА ВЯРА",
+  "date": null,
+  "duration": 1478,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zIUtptRNcKs",
+  "url": "https://www.youtube.com/watch?v=zIUtptRNcKs",
+  "title": "МУЗА и МУЗИКА на МОЗАЙКАТА в СЛОВОТО на ЧОВЕШКАТА Матрица - Бургас - 30.11.2024 г. (ПЪЛЕН ЗАПИС)",
+  "date": null,
+  "duration": 9910,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "0lefX532qmw",
+  "url": "https://www.youtube.com/watch?v=0lefX532qmw",
+  "title": "Магията на Древните Български Обичаи",
+  "date": null,
+  "duration": 1991,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "5pmwGRA-6XQ",
+  "url": "https://www.youtube.com/watch?v=5pmwGRA-6XQ",
+  "title": "Мадарския Конник и Отвъд Светилищата на България с Милан Миланов",
+  "date": null,
+  "duration": 1863,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "aajMR7nOcfQ",
+  "url": "https://www.youtube.com/watch?v=aajMR7nOcfQ",
+  "title": "Матрица от Българската Шевица",
+  "date": null,
+  "duration": 1925,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "7VN2mHfgVLE",
+  "url": "https://www.youtube.com/watch?v=7VN2mHfgVLE",
+  "title": "Матрицата 1999 Епизод 01",
+  "date": null,
+  "duration": 1285,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "HBr1EyYNAZE",
+  "url": "https://www.youtube.com/watch?v=HBr1EyYNAZE",
+  "title": "Матрицата 1999 Епизод 02",
+  "date": null,
+  "duration": 1307,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "P3sTzfeZiRw",
+  "url": "https://www.youtube.com/watch?v=P3sTzfeZiRw",
+  "title": "Матрицата 1999 Епизод 03",
+  "date": null,
+  "duration": 1673,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "qxFMWuGb8g4",
+  "url": "https://www.youtube.com/watch?v=qxFMWuGb8g4",
+  "title": "Мелницата на Живота",
+  "date": null,
+  "duration": 1720,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "dvkvLEXHm84",
+  "url": "https://www.youtube.com/watch?v=dvkvLEXHm84",
+  "title": "Мистиката в Творчеството на Ранъ Босилекъ",
+  "date": null,
+  "duration": 1624,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Z4SAtzMnXTw",
+  "url": "https://www.youtube.com/watch?v=Z4SAtzMnXTw",
+  "title": "Мъжът и Жената към Луната",
+  "date": null,
+  "duration": 1789,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "8xLoACDvn3c",
+  "url": "https://www.youtube.com/watch?v=8xLoACDvn3c",
+  "title": "НАШАТА ИСТИНСКА АЗБУКА с Георги Сираков - ЧАСТ 1",
+  "date": null,
+  "duration": 1570,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "e-d98lMNJiw",
+  "url": "https://www.youtube.com/watch?v=e-d98lMNJiw",
+  "title": "НАШАТА ИСТИНСКА АЗБУКА с Георги Сираков - ЧАСТ 2",
+  "date": null,
+  "duration": 1760,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "YJqtII2qowk",
+  "url": "https://www.youtube.com/watch?v=YJqtII2qowk",
+  "title": "НАШАТА ИСТИНСКА АЗБУКА с Георги Сираков - ЧАСТ 4",
+  "date": null,
+  "duration": 1714,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "NHWb6IsJ2BM",
+  "url": "https://www.youtube.com/watch?v=NHWb6IsJ2BM",
+  "title": "НЕВИДИМИТЕ ИЗКУСТВА В АЗБУКАТА - Подкаст НАШИЯТ ОТГОВОР",
+  "date": null,
+  "duration": 1133,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "n2jxhpp71h0",
+  "url": "https://www.youtube.com/watch?v=n2jxhpp71h0",
+  "title": "На гости при Иван Тодоров - Словото във водата - Част I",
+  "date": null,
+  "duration": 1038,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "9JJ8orX7svk",
+  "url": "https://www.youtube.com/watch?v=9JJ8orX7svk",
+  "title": "На гости при Иван Тодоров - Словото във водата - Част II",
+  "date": null,
+  "duration": 1060,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Drn5TDbAXCA",
+  "url": "https://www.youtube.com/watch?v=Drn5TDbAXCA",
+  "title": "Наука и Вяра се Обединяват",
+  "date": null,
+  "duration": 2246,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "3-GcG8EENVw",
+  "url": "https://www.youtube.com/watch?v=3-GcG8EENVw",
+  "title": "Невидимият Спектър на Човешкото Присъствие",
+  "date": null,
+  "duration": 3310,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "eOhxuy77J7k",
+  "url": "https://www.youtube.com/watch?v=eOhxuy77J7k",
+  "title": "Непознатото Изкуство - Тайнство и Реалност",
+  "date": null,
+  "duration": 1291,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "yI6etq3PLM8",
+  "url": "https://www.youtube.com/watch?v=yI6etq3PLM8",
+  "title": "Нравите и Обичаите отвъд Науката",
+  "date": null,
+  "duration": 2754,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "vl2xGby5WUE",
+  "url": "https://www.youtube.com/watch?v=vl2xGby5WUE",
+  "title": "Общото между Вяра, Изкуство и Наука - Клод Дюри Част II Епизод 09",
+  "date": null,
+  "duration": 2044,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "xtHFs30Ks1M",
+  "url": "https://www.youtube.com/watch?v=xtHFs30Ks1M",
+  "title": "Огледалната Перспектива на Времето",
+  "date": null,
+  "duration": 3578,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "TFPCJldEKG8",
+  "url": "https://www.youtube.com/watch?v=TFPCJldEKG8",
+  "title": "Огледалната Перспектива на Сътворението",
+  "date": null,
+  "duration": 3762,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "sfnPTMs6YUs",
+  "url": "https://www.youtube.com/watch?v=sfnPTMs6YUs",
+  "title": "Омир през Вековете",
+  "date": null,
+  "duration": 2625,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Av7HzwY2qLg",
+  "url": "https://www.youtube.com/watch?v=Av7HzwY2qLg",
+  "title": "Отвъд Посланието на Вярата във филма \"Константин\"",
+  "date": null,
+  "duration": 1250,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "b5i_1vaNzXM",
+  "url": "https://www.youtube.com/watch?v=b5i_1vaNzXM",
+  "title": "Отвъд Представите за Живота",
+  "date": null,
+  "duration": 2083,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "619910ChvZg",
+  "url": "https://www.youtube.com/watch?v=619910ChvZg",
+  "title": "ПАМЕТТА - КОД НА СЪЗНАНИЕТО - Лондон",
+  "date": null,
+  "duration": 1710,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "9tP5tFglXFw",
+  "url": "https://www.youtube.com/watch?v=9tP5tFglXFw",
+  "title": "ПЕТА ЧАСТ - РАЗГРЪЩАНЕ НА АЗБУКАТА - ЛЕКЦИЯ ВАРНА - Част 5",
+  "date": null,
+  "duration": 1743,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "8K6y4pQvbm0",
+  "url": "https://www.youtube.com/watch?v=8K6y4pQvbm0",
+  "title": "ПЕЩЕРА МАГУРАТА - КАКВА Е ИСТИНАТА? - ДОКАЗАТЕЛСТВА ЗА ДРЕВНОСТТА НА НАШЕТО СЛОВО - Лекция Търново",
+  "date": null,
+  "duration": 1475,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "TeEYL2vnGYM",
+  "url": "https://www.youtube.com/watch?v=TeEYL2vnGYM",
+  "title": "ПОРТАЛЪТ НА СЛОВОТО И ИЗКУСТВОТО - Лекция Бургас",
+  "date": null,
+  "duration": 2048,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "YhDvKjDP3BM",
+  "url": "https://www.youtube.com/watch?v=YhDvKjDP3BM",
+  "title": "ПРОЯВЛЕНИЯ - СРЕЩНИ СЕБЕ СИ В ДРУГОВРЕМИЕТО",
+  "date": null,
+  "duration": 1791,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "vARo3d-BjBU",
+  "url": "https://www.youtube.com/watch?v=vARo3d-BjBU",
+  "title": "Пазители I - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1011,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zfdsiMnfLOk",
+  "url": "https://www.youtube.com/watch?v=zfdsiMnfLOk",
+  "title": "Пазители II - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1113,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "PuCFo9cxpjQ",
+  "url": "https://www.youtube.com/watch?v=PuCFo9cxpjQ",
+  "title": "Пазители III - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1128,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "nsHkUKkylYQ",
+  "url": "https://www.youtube.com/watch?v=nsHkUKkylYQ",
+  "title": "Пазители IV - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1141,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ENLOkls9t08",
+  "url": "https://www.youtube.com/watch?v=ENLOkls9t08",
+  "title": "Пазители IX - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 985,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "u2zYrxx-ZT4",
+  "url": "https://www.youtube.com/watch?v=u2zYrxx-ZT4",
+  "title": "Пазители V - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1022,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "AaK4kHjKc6k",
+  "url": "https://www.youtube.com/watch?v=AaK4kHjKc6k",
+  "title": "Пазители VI - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 989,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "qBqV2uoLqV4",
+  "url": "https://www.youtube.com/watch?v=qBqV2uoLqV4",
+  "title": "Пазители VII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 954,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "cN_oKRqCQ1Q",
+  "url": "https://www.youtube.com/watch?v=cN_oKRqCQ1Q",
+  "title": "Пазители VIII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 980,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "4qoh-XRTqKE",
+  "url": "https://www.youtube.com/watch?v=4qoh-XRTqKE",
+  "title": "Пазители X - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 865,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "xTKPfk0x8jo",
+  "url": "https://www.youtube.com/watch?v=xTKPfk0x8jo",
+  "title": "Пазители на Словото XI - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1039,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "KKcFJkJUxjs",
+  "url": "https://www.youtube.com/watch?v=KKcFJkJUxjs",
+  "title": "Пазители на Словото XII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 977,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "_gjofibd0pw",
+  "url": "https://www.youtube.com/watch?v=_gjofibd0pw",
+  "title": "Пазители на Словото XIII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1935,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "I7azf81Yv0o",
+  "url": "https://www.youtube.com/watch?v=I7azf81Yv0o",
+  "title": "Пазители на Словото XIV - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1261,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "sg0vaOIqug8",
+  "url": "https://www.youtube.com/watch?v=sg0vaOIqug8",
+  "title": "Песен в Нишката",
+  "date": null,
+  "duration": 1342,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "lLWwoL5DJ3c",
+  "url": "https://www.youtube.com/watch?v=lLWwoL5DJ3c",
+  "title": "Пирамидата на Данте || Троичната перспектива на словото - Обучение Модул 2 - Пловдив",
+  "date": null,
+  "duration": 16564,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "GKPJVPwVDNA",
+  "url": "https://www.youtube.com/watch?v=GKPJVPwVDNA",
+  "title": "Пирамидата на Данте и Първичния Принцип на Словото || Обучение Модул 2 - Част 2 - Пловдив",
+  "date": null,
+  "duration": 8334,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Ls3HQUUN7cE",
+  "url": "https://www.youtube.com/watch?v=Ls3HQUUN7cE",
+  "title": "Плодовете на Посвещението",
+  "date": null,
+  "duration": 2033,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "mr2VVlyRQ54",
+  "url": "https://www.youtube.com/watch?v=mr2VVlyRQ54",
+  "title": "По Пътя на Еволюцията",
+  "date": null,
+  "duration": 3918,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "pbC72SCslq0",
+  "url": "https://www.youtube.com/watch?v=pbC72SCslq0",
+  "title": "Повей от Древните Български Нрави и Обичаи",
+  "date": null,
+  "duration": 3017,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "VQYiTiXnW78",
+  "url": "https://www.youtube.com/watch?v=VQYiTiXnW78",
+  "title": "Повелители I - ВТОРИ МОДУЛ - Силата на Буквите и Мястото им в Азбуката - ВАРНА",
+  "date": null,
+  "duration": 1701,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "EN62iMsrdds",
+  "url": "https://www.youtube.com/watch?v=EN62iMsrdds",
+  "title": "Повелители I - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 2044,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Kh_AteTBt20",
+  "url": "https://www.youtube.com/watch?v=Kh_AteTBt20",
+  "title": "Повелители II - ВТОРИ МОДУЛ - Силата на Буквите и Мястото им в Азбуката - ВАРНА",
+  "date": null,
+  "duration": 2456,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "fbmbJBd1b9k",
+  "url": "https://www.youtube.com/watch?v=fbmbJBd1b9k",
+  "title": "Повелители II - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 2188,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "kmAgEC_zePo",
+  "url": "https://www.youtube.com/watch?v=kmAgEC_zePo",
+  "title": "Повелители III - ВТОРИ МОДУЛ - Силата на Буквите и Мястото им в Азбуката - ВАРНА",
+  "date": null,
+  "duration": 2542,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "IC-EZo7ImDw",
+  "url": "https://www.youtube.com/watch?v=IC-EZo7ImDw",
+  "title": "Повелители III - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1930,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "dkSmdqRjMrU",
+  "url": "https://www.youtube.com/watch?v=dkSmdqRjMrU",
+  "title": "Повелители IV - ВТОРИ МОДУЛ - Силата на Буквите и Мястото им в Азбуката - ВАРНА",
+  "date": null,
+  "duration": 1826,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "e1chL1btuAI",
+  "url": "https://www.youtube.com/watch?v=e1chL1btuAI",
+  "title": "Повелители IV - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1861,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "doOOu_nS01o",
+  "url": "https://www.youtube.com/watch?v=doOOu_nS01o",
+  "title": "Повелители IX - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1802,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "oX0Yg_lJjtA",
+  "url": "https://www.youtube.com/watch?v=oX0Yg_lJjtA",
+  "title": "Повелители V - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1769,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Osbwy48tiWk",
+  "url": "https://www.youtube.com/watch?v=Osbwy48tiWk",
+  "title": "Повелители VI - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 2064,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "zPMEe8FX7Pk",
+  "url": "https://www.youtube.com/watch?v=zPMEe8FX7Pk",
+  "title": "Повелители VII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1901,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "_DiekQLZgZg",
+  "url": "https://www.youtube.com/watch?v=_DiekQLZgZg",
+  "title": "Повелители VIII - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1971,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "cQPSmG5lWAQ",
+  "url": "https://www.youtube.com/watch?v=cQPSmG5lWAQ",
+  "title": "Повелители X - ОБУЧЕНИЕ ПЪРВИ МОДУЛ - Разгръщане на азбуката - ВАРНА",
+  "date": null,
+  "duration": 1198,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Ufxj2GRMb40",
+  "url": "https://www.youtube.com/watch?v=Ufxj2GRMb40",
+  "title": "Полезна Храна за Елементите",
+  "date": null,
+  "duration": 2487,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "OZQFzllcLc0",
+  "url": "https://www.youtube.com/watch?v=OZQFzllcLc0",
+  "title": "Последните Дни на ХХ век според Вазов",
+  "date": null,
+  "duration": 1368,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "R-nrv2YqI9I",
+  "url": "https://www.youtube.com/watch?v=R-nrv2YqI9I",
+  "title": "Предсказанията на Петър, Клод и Козма. Част III Епизод 10",
+  "date": null,
+  "duration": 1663,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Xf54MxNG7hY",
+  "url": "https://www.youtube.com/watch?v=Xf54MxNG7hY",
+  "title": "Програмите в ДНК и Времето с Вълко Чобанов",
+  "date": null,
+  "duration": 4763,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "mC0QR3w7Yls",
+  "url": "https://www.youtube.com/watch?v=mC0QR3w7Yls",
+  "title": "Пътешествие до Центъра на Земята",
+  "date": null,
+  "duration": 2030,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "9A4PvVld2Hw",
+  "url": "https://www.youtube.com/watch?v=9A4PvVld2Hw",
+  "title": "Пътешествията на Йоан Кръстител",
+  "date": null,
+  "duration": 2118,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "2UAbdc1ISiM",
+  "url": "https://www.youtube.com/watch?v=2UAbdc1ISiM",
+  "title": "Пътуване във Времето",
+  "date": null,
+  "duration": 4658,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "bnhSKDFYV9s",
+  "url": "https://www.youtube.com/watch?v=bnhSKDFYV9s",
+  "title": "РАЗГРЪЩАНЕ НА АЗБУКАТА - ЛЕКЦИЯ ВАРНА - 1 ЧАСТ",
+  "date": null,
+  "duration": 1817,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ESVcxOXEYXk",
+  "url": "https://www.youtube.com/watch?v=ESVcxOXEYXk",
+  "title": "РАЗГРЪЩАНЕ НА АЗБУКАТА - ЛЕКЦИЯ ВАРНА - 2 ЧАСТ",
+  "date": null,
+  "duration": 1576,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "jRYcMzL6FsY",
+  "url": "https://www.youtube.com/watch?v=jRYcMzL6FsY",
+  "title": "РАЗГРЪЩАНЕ НА АЗБУКАТА - ЛЕКЦИЯ ВАРНА - Част 6",
+  "date": null,
+  "duration": 2624,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "k1vd-bvKTt8",
+  "url": "https://www.youtube.com/watch?v=k1vd-bvKTt8",
+  "title": "РАЗГРЪЩАНЕ НА АЗБУКАТА - ЦЯЛА ЛЕКЦИЯ ВАРНА",
+  "date": null,
+  "duration": 11037,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "yAi8oRGSFOQ",
+  "url": "https://www.youtube.com/watch?v=yAi8oRGSFOQ",
+  "title": "РУБРИКА \"НАШИЯТ ОТГОВОР\" - ЧАСТ 1",
+  "date": null,
+  "duration": 1659,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "TevAMG-9Kg8",
+  "url": "https://www.youtube.com/watch?v=TevAMG-9Kg8",
+  "title": "РУБРИКА \"НАШИЯТ ОТГОВОР\" - ЧАСТ 2",
+  "date": null,
+  "duration": 1169,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "N06GaIU2YkE",
+  "url": "https://www.youtube.com/watch?v=N06GaIU2YkE",
+  "title": "Различен Поглед върху Богомилите",
+  "date": null,
+  "duration": 2063,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "c-4e6X1mElQ",
+  "url": "https://www.youtube.com/watch?v=c-4e6X1mElQ",
+  "title": "Раят е в Сърцето ти",
+  "date": null,
+  "duration": 3947,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "5JnOvljLu-8",
+  "url": "https://www.youtube.com/watch?v=5JnOvljLu-8",
+  "title": "Родовата Памет между Франция и България",
+  "date": null,
+  "duration": 3916,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Mc9XUvNYXjk",
+  "url": "https://www.youtube.com/watch?v=Mc9XUvNYXjk",
+  "title": "Сделка с Дявола",
+  "date": null,
+  "duration": 1658,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Sz-0vGuV4Gc",
+  "url": "https://www.youtube.com/watch?v=Sz-0vGuV4Gc",
+  "title": "Силата на Шевицата с Кристиян Митев",
+  "date": null,
+  "duration": 1215,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "kcN-HZ3G_RQ",
+  "url": "https://www.youtube.com/watch?v=kcN-HZ3G_RQ",
+  "title": "Символи и послания в картини - Нели Драгиева - 13.10.2024 г. - Пловдив - Част III",
+  "date": null,
+  "duration": 2442,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "rIDbm1fRgQw",
+  "url": "https://www.youtube.com/watch?v=rIDbm1fRgQw",
+  "title": "Символи и послания в картини - Нели Драгиева - 13.10.2024 г. - Пловдив - Част IV",
+  "date": null,
+  "duration": 2164,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "IBHUX2ehEHo",
+  "url": "https://www.youtube.com/watch?v=IBHUX2ehEHo",
+  "title": "Скритите Съкровища на Карандила - Преход 20.11",
+  "date": null,
+  "duration": 3557,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "CTjGrctpU_I",
+  "url": "https://www.youtube.com/watch?v=CTjGrctpU_I",
+  "title": "Скулпторът на Словото",
+  "date": null,
+  "duration": 2933,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "nsfOWWNXVPQ",
+  "url": "https://www.youtube.com/watch?v=nsfOWWNXVPQ",
+  "title": "Словото на Родовата Памет",
+  "date": null,
+  "duration": 5834,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ArWhAGxxPKM",
+  "url": "https://www.youtube.com/watch?v=ArWhAGxxPKM",
+  "title": "Стълбата към Рая в Храм \"Свети Георги\" и Роженския Манастир",
+  "date": null,
+  "duration": 2651,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "O8gss--63N0",
+  "url": "https://www.youtube.com/watch?v=O8gss--63N0",
+  "title": "Съзнанието Живее в Карандила - Преход 18.11",
+  "date": null,
+  "duration": 2383,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "P1G4dhXcdTk",
+  "url": "https://www.youtube.com/watch?v=P1G4dhXcdTk",
+  "title": "Съзнанието Живее в Карандила - Преход 19.11",
+  "date": null,
+  "duration": 2976,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "kEauvwEI-8E",
+  "url": "https://www.youtube.com/watch?v=kEauvwEI-8E",
+  "title": "Съкровище от историята на езиците по този свят - Книгата на Клод от Дюри - Епизод 08",
+  "date": null,
+  "duration": 2025,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "oZtSze0TiCU",
+  "url": "https://www.youtube.com/watch?v=oZtSze0TiCU",
+  "title": "ТАЙНАТА НА СЛОВОТО С БЪЛГАРИТЕ В ЛОНДОН - ЛЕКЦИЯ ЧАСТ 1",
+  "date": null,
+  "duration": 1629,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "X6BdsyfjLFM",
+  "url": "https://www.youtube.com/watch?v=X6BdsyfjLFM",
+  "title": "ТАЙНАТА НА СЛОВОТО С БЪЛГАРИТЕ В ЛОНДОН - ЛЕКЦИЯ ЧАСТ 2",
+  "date": null,
+  "duration": 1777,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "HD7h54vdPAU",
+  "url": "https://www.youtube.com/watch?v=HD7h54vdPAU",
+  "title": "ТАЙНАТА НА СЛОВОТО С БЪЛГАРИТЕ В ЛОНДОН - ЛЕКЦИЯ ЧАСТ 3",
+  "date": null,
+  "duration": 1792,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "wLBh3sgWAjA",
+  "url": "https://www.youtube.com/watch?v=wLBh3sgWAjA",
+  "title": "ТАЙНАТА НА СЛОВОТО С БЪЛГАРИТЕ В ЛОНДОН - ЛЕКЦИЯ ЧАСТ 4",
+  "date": null,
+  "duration": 1972,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "HS0x4nOGUcA",
+  "url": "https://www.youtube.com/watch?v=HS0x4nOGUcA",
+  "title": "ТРЕТА ЧАСТ - РАЗГРЪЩАНЕ НА АЗБУКАТА - ЛЕКЦИЯ ВАРНА - Част 3",
+  "date": null,
+  "duration": 1705,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Qz8trxgSBdA",
+  "url": "https://www.youtube.com/watch?v=Qz8trxgSBdA",
+  "title": "ТРОИЧНАТА ФУНКЦИЯ НА КАЛЕНДАРА В АЗБУКАТА - Лекция Част 1",
+  "date": null,
+  "duration": 1260,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "2-rfIvcXZhc",
+  "url": "https://www.youtube.com/watch?v=2-rfIvcXZhc",
+  "title": "ТРОИЧНАТА ФУНКЦИЯ НА КАЛЕНДАРА В АЗБУКАТА - Лекция Част 2",
+  "date": null,
+  "duration": 1054,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ePds6L5CDiA",
+  "url": "https://www.youtube.com/watch?v=ePds6L5CDiA",
+  "title": "ТРОИЧНАТА ФУНКЦИЯ НА КАЛЕНДАРА В АЗБУКАТА - Лекция Част 3",
+  "date": null,
+  "duration": 1191,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ris-t935Zu4",
+  "url": "https://www.youtube.com/watch?v=ris-t935Zu4",
+  "title": "Тайната в Музикалното Изкуство - Смиляна Захариева - Пловдив - 13.10.2024 г. - Част V",
+  "date": null,
+  "duration": 2499,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "LshsrFF_ofg",
+  "url": "https://www.youtube.com/watch?v=LshsrFF_ofg",
+  "title": "Тайната на Вселената в Словото на Дланите Ни - Част I - Пловдив - 13.10.2024 г.",
+  "date": null,
+  "duration": 2427,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "L7RYUGQZYz0",
+  "url": "https://www.youtube.com/watch?v=L7RYUGQZYz0",
+  "title": "Тайната на Вселената в Словото на Дланите Ни - Част II - 13.10.2024 г. - Пловдив - ЗАПИС",
+  "date": null,
+  "duration": 3036,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "eVquUOu4xdI",
+  "url": "https://www.youtube.com/watch?v=eVquUOu4xdI",
+  "title": "Тайната на Вселената в Словото на Дланта ни \"Здравей, Здраве\" - Ямбол 15.09.2024 г.",
+  "date": null,
+  "duration": 2962,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "W4RWAl4mpbo",
+  "url": "https://www.youtube.com/watch?v=W4RWAl4mpbo",
+  "title": "Тайната на Словото  - Местност Карандила 22.03.24г.",
+  "date": null,
+  "duration": 7187,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "E9_5wrolwJI",
+  "url": "https://www.youtube.com/watch?v=E9_5wrolwJI",
+  "title": "Тайната на Словото - 02.07.2022.г - Исторически парк - Фестивал - \"Заедно за България\" - Част II",
+  "date": null,
+  "duration": 1455,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "kTnpDV9v9WA",
+  "url": "https://www.youtube.com/watch?v=kTnpDV9v9WA",
+  "title": "Тайната на Словото - 02.07.2022г. - Исторически парк - Неофит Рилски - Фестивал \"Заедно за България\"",
+  "date": null,
+  "duration": 1468,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "5cApJtu_2Cc",
+  "url": "https://www.youtube.com/watch?v=5cApJtu_2Cc",
+  "title": "Тайната на Словото - 11.06.2024 г. - Пловдив - Част II",
+  "date": null,
+  "duration": 6924,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "lgZ9JtE-Mho",
+  "url": "https://www.youtube.com/watch?v=lgZ9JtE-Mho",
+  "title": "Тайната на Словото - Карандила - част II - 10.05.24 г.",
+  "date": null,
+  "duration": 9081,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Ka9h46cgFcY",
+  "url": "https://www.youtube.com/watch?v=Ka9h46cgFcY",
+  "title": "Тайната на Словото - Пловдив - 11.06.24 г.",
+  "date": null,
+  "duration": 5280,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "ON0xd0bOntw",
+  "url": "https://www.youtube.com/watch?v=ON0xd0bOntw",
+  "title": "Тайната на Словото - Разград - 16.11.2024 г. - Част I",
+  "date": null,
+  "duration": 1648,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "RkpZ2JNW8OQ",
+  "url": "https://www.youtube.com/watch?v=RkpZ2JNW8OQ",
+  "title": "Тайната на Словото - Разград - 16.11.2024 г. - Част II",
+  "date": null,
+  "duration": 4449,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "aUhZnLuAM7s",
+  "url": "https://www.youtube.com/watch?v=aUhZnLuAM7s",
+  "title": "Тайната на Словото - София - 10.03.2024 г.",
+  "date": null,
+  "duration": 3059,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "SCqCp3PhrAU",
+  "url": "https://www.youtube.com/watch?v=SCqCp3PhrAU",
+  "title": "Тайната на Словото - Стара Загора - 12.05.2024 г. - Част I",
+  "date": null,
+  "duration": 7472,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "viIKrdNpeCU",
+  "url": "https://www.youtube.com/watch?v=viIKrdNpeCU",
+  "title": "Тайната на Словото в Скритото Познание на Посветените от хижа Карандила",
+  "date": null,
+  "duration": 4767,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "iQz0HWFfY1U",
+  "url": "https://www.youtube.com/watch?v=iQz0HWFfY1U",
+  "title": "Тайният Език на Тялото",
+  "date": null,
+  "duration": 1873,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "pkUyII7IDPQ",
+  "url": "https://www.youtube.com/watch?v=pkUyII7IDPQ",
+  "title": "Троичната Връзка на Дух, Душа и Тяло",
+  "date": null,
+  "duration": 3854,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "VGRLMtyj5Y4",
+  "url": "https://www.youtube.com/watch?v=VGRLMtyj5Y4",
+  "title": "Троичната перспектива на Словото - Бургас 09.05.24г.",
+  "date": null,
+  "duration": 5723,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "Kw1LSooYz6Q",
+  "url": "https://www.youtube.com/watch?v=Kw1LSooYz6Q",
+  "title": "Троичността на Човешкия Елемент",
+  "date": null,
+  "duration": 3415,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "I5OxZd5jEPE",
+  "url": "https://www.youtube.com/watch?v=I5OxZd5jEPE",
+  "title": "УМИРАМЕ ЛИ НАИСТИНА? - СМЪРТ И МЕРТВОСТ в Потока на времето - Част 2",
+  "date": null,
+  "duration": 1969,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "BVeV8fz6tM0",
+  "url": "https://www.youtube.com/watch?v=BVeV8fz6tM0",
+  "title": "Успението на Неродена Мома от Ранъ Босилекъ",
+  "date": null,
+  "duration": 2407,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "9GW8izaH_ag",
+  "url": "https://www.youtube.com/watch?v=9GW8izaH_ag",
+  "title": "Фестивал \"Събуди се\" с Истинска Земя",
+  "date": null,
+  "duration": 4244,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "80IUKn1iaLA",
+  "url": "https://www.youtube.com/watch?v=80IUKn1iaLA",
+  "title": "ХРИСТИЯНСТВОТО И БЪЛГАРСКИТЕ НРАВИ",
+  "date": null,
+  "duration": 3614,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "TQi5054Sc60",
+  "url": "https://www.youtube.com/watch?v=TQi5054Sc60",
+  "title": "ЧАСТ 3 - НАШАТА ИСТИНСКА АЗБУКА с Георги Сираков",
+  "date": null,
+  "duration": 1623,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "H0quBFXe7MU",
+  "url": "https://www.youtube.com/watch?v=H0quBFXe7MU",
+  "title": "ЧЕТВЪРТА ЧАСТ - РАЗГРЪЩАНЕ НА АЗБУКАТА - ЛЕКЦИЯ ВАРНА - Част 4",
+  "date": null,
+  "duration": 1363,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "J8soanTg3uo",
+  "url": "https://www.youtube.com/watch?v=J8soanTg3uo",
+  "title": "ЧЕТИРИТЕ УСТОИ НА СЛОВОТО ПО СИЛАТА НА ВРЕМЕТО - НАШИЯТ ОТГОВОР",
+  "date": null,
+  "duration": 1234,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "EponLIB8wCU",
+  "url": "https://www.youtube.com/watch?v=EponLIB8wCU",
+  "title": "Чудото на Седемте Енергии Епизод 07",
+  "date": null,
+  "duration": 2859,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "7fBjmYzF794",
+  "url": "https://www.youtube.com/watch?v=7fBjmYzF794",
+  "title": "Шифърът на Леонардо",
+  "date": null,
+  "duration": 3294,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ },
+ {
+  "vid": "GIsZkHRizIY",
+  "url": "https://www.youtube.com/watch?v=GIsZkHRizIY",
+  "title": "Шифърът на Религията",
+  "date": null,
+  "duration": 2751,
+  "publisher": "Истинска Земя",
+  "type": "lecture"
+ }
 ]
