@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>КРЪГОВРАТ — архив на Георги Сираков</title>
+<meta name="description" content="Търсим архив на лекциите на Георги Сираков (Г. Д. Серафиос), подредени по курсове и части.">
+<style>
+:root{
+  --bg:#0d0e12; --panel:#15171d; --line:#22252e;
+  --ink:#e8e6e1; --dim:#8b8f9a; --gold:#c9a227; --gold-dim:#7a6418;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:16px/1.55 ui-sans-serif,system-ui,"Segoe UI",Roboto,sans-serif;
+  -webkit-text-size-adjust:100%}
+header{padding:28px 18px 18px;border-bottom:1px solid var(--line)}
+h1{margin:0;font-size:22px;letter-spacing:.14em;font-weight:600;color:var(--gold)}
+.sub{margin:6px 0 0;color:var(--dim);font-size:13.5px}
+.wrap{max-width:860px;margin:0 auto}
+.stats{display:flex;gap:20px;flex-wrap:wrap;margin-top:14px;font-size:13px;color:var(--dim)}
+.stats b{color:var(--ink);font-weight:600}
+#q{width:100%;margin:16px 0 4px;padding:11px 13px;background:var(--panel);
+  border:1px solid var(--line);border-radius:9px;color:var(--ink);font-size:16px}
+#q:focus{outline:none;border-color:var(--gold-dim)}
+main{padding:0 18px 60px}
+.course{background:var(--panel);border:1px solid var(--line);border-radius:11px;
+  margin:12px 0;overflow:hidden}
+.chead{padding:13px 15px;cursor:pointer;display:flex;gap:12px;align-items:baseline}
+.chead:hover{background:#191c23}
+.ctitle{flex:1;font-weight:600;font-size:15.5px}
+.cmeta{color:var(--dim);font-size:12.5px;white-space:nowrap}
+.tags{margin-top:5px;display:flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:11px;padding:2px 7px;border-radius:20px;
+  background:#1e2129;color:var(--dim);border:1px solid var(--line)}
+.tag.track{color:var(--gold);border-color:var(--gold-dim)}
+.parts{display:none;border-top:1px solid var(--line)}
+.course.open .parts{display:block}
+.part{display:flex;gap:11px;align-items:baseline;padding:9px 15px;
+  border-bottom:1px solid #1b1e25;text-decoration:none;color:var(--ink)}
+.part:last-child{border-bottom:none}
+.part:hover{background:#191c23}
+.no{color:var(--gold);font-variant-numeric:tabular-nums;font-size:12.5px;min-width:26px}
+.pt{flex:1;font-size:14px;line-height:1.4}
+.dur{color:var(--dim);font-size:12px;font-variant-numeric:tabular-nums}
+.note{margin:22px 0 0;padding:13px 15px;border-left:2px solid var(--gold-dim);
+  color:var(--dim);font-size:13.5px;background:#12141a}
+.err{color:#d98b8b;padding:20px 0}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>КРЪГОВРАТ</h1>
+  <p class="sub">Архив на лекциите на Георги Сираков (Г.&nbsp;Д.&nbsp;Серафиос), 1991–2026.<br>
+     Подредени както са преподавани, а не както ги показва каналът.</p>
+  <div class="stats" id="stats"></div>
+</div></header>
+<main class="wrap">
+  <input id="q" placeholder="търси курс, град, тема…" autocomplete="off">
+  <div id="list"></div>
+  <p class="note">Това е засега само указателят — курсовете, частите и редът им.
+     Търсенето в самите думи идва, когато транскриптите минат проверка.
+     Всеки ред отваря видеото на YouTube.</p>
+</main>
+<script>
+const $ = s => document.querySelector(s);
+let COURSES = [];
+
+const hhmm = s => {
+  if (!s) return "";
+  const h = Math.floor(s/3600), m = Math.round(s%3600/60);
+  return h ? `${h}:${String(m).padStart(2,"0")}` : `${m} мин`;
+};
+const title = c => c.series.charAt(0).toUpperCase() + c.series.slice(1);
+
+function render(rows){
+  $("#list").innerHTML = rows.map((c,i) => {
+    const tags = [
+      c.track && `<span class="tag track">${c.track}</span>`,
+      c.city && `<span class="tag">${c.city}</span>`,
+      c.module && `<span class="tag">Модул ${c.module}</span>`,
+      c.date && `<span class="tag">${c.date.split("-").reverse().join(".")}</span>`
+    ].filter(Boolean).join("");
+    const parts = c.videos.map(v => `
+      <a class="part" href="https://youtu.be/${v.vid}" target="_blank" rel="noopener">
+        <span class="no">${v.part ?? "•"}</span>
+        <span class="pt">${esc(v.title)}</span>
+        <span class="dur">${hhmm(v.duration)}</span>
+      </a>`).join("");
+    return `<div class="course" data-i="${i}">
+      <div class="chead">
+        <div style="flex:1">
+          <div class="ctitle">${esc(title(c))}</div>
+          <div class="tags">${tags}</div>
+        </div>
+        <div class="cmeta">${c.parts} ч. · ${c.hours.toFixed(1)}ч</div>
+      </div>
+      <div class="parts">${parts}</div>
+    </div>`;
+  }).join("") || `<p class="note">Нищо не съвпада.</p>`;
+
+  document.querySelectorAll(".chead").forEach(h =>
+    h.onclick = () => h.parentElement.classList.toggle("open"));
+}
+
+const esc = s => (s||"").replace(/[&<>"]/g, ch =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+
+function filter(){
+  const q = $("#q").value.trim().toLowerCase();
+  if (!q) return render(COURSES);
+  render(COURSES.filter(c =>
+    [c.series, c.city, c.track, c.date, ...c.videos.map(v => v.title)]
+      .filter(Boolean).join(" ").toLowerCase().includes(q)));
+}
+
+fetch("ingest/curriculum.json")
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(data => {
+    // многочастните курсове горе — те са същинското обучение
+    COURSES = data.sort((a,b) =>
+      (b.parts>1) - (a.parts>1) || b.hours - a.hours);
+    const vids = data.reduce((n,c) => n + c.parts, 0);
+    const hrs  = data.reduce((n,c) => n + c.hours, 0);
+    const multi = data.filter(c => c.parts > 1).length;
+    $("#stats").innerHTML =
+      `<span><b>${vids}</b> записа</span>
+       <span><b>${hrs.toFixed(0)}</b> часа</span>
+       <span><b>${multi}</b> многочастни курса</span>`;
+    render(COURSES);
+    $("#q").oninput = filter;
+  })
+  .catch(e => $("#list").innerHTML =
+    `<p class="err">Указателят още не е генериран (${e}).
+     Пусни workflow-а <b>Curriculum</b>.</p>`);
+</script>
+</body>
+</html>
