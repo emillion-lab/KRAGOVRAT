@@ -1,0 +1,26 @@
+name: Curriculum
+
+# Прегенерира ingest/curriculum.json от ingest/sources.json.
+# Само метаданни (заглавия, ID-та, дължини) — влиза в git, не е защитено съдържание.
+
+on:
+  workflow_dispatch:
+  push:
+    paths: [ingest/sources.json, ingest/curriculum.py]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python ingest/curriculum.py
+      - run: |
+          git config user.name  "kragovrat-bot"
+          git config user.email "actions@github.com"
+          git add -f ingest/curriculum.json
+          git diff --staged --quiet || git commit -m "Прегенериран curriculum.json"
+          git push
